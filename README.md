@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Personagens de Fantasia Medieval Para RPG de Mesa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um dossiê detalhado de personagens de fantasia medieval. Cada personagem é único, com uma descrição rica e uma imagem gerada por Inteligência Artificial (IA). O objetivo é proporcionar uma experiência visual e narrativa envolvente, ideal para uso em jogos de RPG.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (OpenAI): Utilizado para gerar as descrições detalhadas dos personagens, incluindo nome, idade, raça, classe, personalidade e história.
+DALL-E 3 (OpenAI): Utilizado para criar as imagens dos personagens com base nas descrições geradas.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Escolha do Tema:** Escolhi o tema geral do projeto como "fantasia medieval", um cenário repleto de magia, heróis e criaturas míticas.
+
+2. **Definição dos Personagens:** Decidi criar 10 personagens distintos, cada um com detalhes específicos:
+   - Nome
+   - Idade
+   - Raça
+   - Classe
+   - Personalidade
+   - Breve história
+
+3. **Geração das Descrições:**
+   Utilizando o ChatGPT para gerar descrições detalhadas de cada personagem. As descrições incluíram características físicas, personalidades e histórias únicas, como ilustrado abaixo:
+
+   - **Elara Moonshadow:** Uma elfa com aparência de 25 anos, olhos verdes e cabelos longos e prateados. É uma maga sábia e misteriosa, vivendo reclusa em uma floresta encantada.
+   - **Thorne Ironfist:** Um anão guerreiro de 45 anos, com olhos castanhos e barba ruiva trançada. Conhecido por sua coragem e lealdade, protege seu clã das ameaças dos orcs.
+
+4. **Criação das Imagens:**
+   Com as descrições prontas, utilizei a IA DALL-E 3 para gerar as imagens dos personagens. Fornecendo prompts detalhados baseados nas descrições, por exemplo:
+   - "Uma elfa chamada Elara Moonshadow, com aparência de 25 anos, olhos verdes e cabelos longos e prateados, vestindo uma túnica azul e segurando um cajado mágico, em uma floresta encantada."
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
