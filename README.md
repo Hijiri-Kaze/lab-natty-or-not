@@ -6,6 +6,7 @@ Este projeto consiste na criação de um dossiê detalhado de personagens de fan
 ## 🤖 Tecnologias Utilizadas
 ChatGPT (OpenAI): Utilizado para gerar as descrições detalhadas dos personagens, incluindo nome, idade, raça, classe, personalidade e história.
 DALL-E 3 (OpenAI): Utilizado para criar as imagens dos personagens com base nas descrições geradas.
+Microsoft Word: Utilizado para montar o dossiê, organizando as descrições e imagens em um documento visualmente atraente.
 
 ## 🧐 Processo de Criação
 1. **Escolha do Tema:** Escolhi o tema geral do projeto como "fantasia medieval", um cenário repleto de magia, heróis e criaturas míticas.
@@ -26,10 +27,20 @@ DALL-E 3 (OpenAI): Utilizado para criar as imagens dos personagens com base nas 
 
 4. **Criação das Imagens:**
    Com as descrições prontas, utilizei a IA DALL-E 3 para gerar as imagens dos personagens. Fornecendo prompts detalhados baseados nas descrições, por exemplo:
-   - "Uma elfa chamada Elara Moonshadow, com aparência de 25 anos, olhos verdes e cabelos longos e prateados, vestindo uma túnica azul e segurando um cajado mágico, em uma floresta encantada."
+   - "Uma elfa chamada Elara Moonshadow, com aparência de 25 anos, olhos verdes e cabelos longos e prateados, vestindo uma túnica azul e segurando um cajado mágico, em uma floresta encantada.
+
+"5. **Montagem do Dossiê:**
+   Reunindo todas as descrições e imagens em um documento estruturado, criando um dossiê visualmente atraente. Utilizamos o Microsoft Word para organizar o conteúdo, garantindo que cada personagem tivesse sua própria página dedicada com imagem e descrição completa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[RPG_NPC.docx](https://github.com/user-attachments/files/15745286/RPG_NPC.docx)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Escolhi explorar o tema da fantasia medieval porque sou apaixonado pelo mundo dos jogos e, especialmente, por universos repletos de magia e imaginação.
+
+Ao utilizar tecnologias avançadas como o ChatGPT e o DALL-E 3, pude dar vida a personagens únicos, cada um com sua própria história, características marcantes e imagens visualmente impressionantes.
+
+Estou especialmente empolgado com a possibilidade de aplicar esse método em futuras sessões de RPG. A criação de NPCs e backgrounds sempre foi um desafio, mas agora tenho uma ferramenta poderosa que pode tornar esse processo mais fácil e divertido.
+
+Agradeço a oportunidade de explorar esse projeto e mal posso esperar para ver como esses personagens ganharão vida em futuras aventuras de RPG HEHEHE.
